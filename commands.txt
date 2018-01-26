@@ -1,2 +1,3 @@
 source activate myenv
 conda env update -f=environment.yml
+conda install -c bioconda moff
